@@ -43,7 +43,7 @@ const Conteudo = () => {
 
                             <nav className="flex gap-3 mb-10">
                                 <a href="#cardapio" className="btn" rel="noopener noreferrer">Cardapio</a>
-                                <a href="https://w.app/reloxa" className="btn btn-outline" rel="noopener noreferrer" target="_blank">📱Whatsapp</a>
+                                <a href="https://wa.me/5511995627944?text=Quero%20fazer%20um%20pedido" className="btn btn-outline" rel="noopener noreferrer" target="_blank">📱Whatsapp</a>
                             </nav>
 
                             <ul className="hero-stats">
@@ -68,7 +68,7 @@ const Conteudo = () => {
                     <h2>Burguer Classico</h2>
                     <p>Pão brioche, 180g de carne, queijo cheddar, alface, tomate e molho especial da casa</p>
                     <strong>R$ 29,90</strong>
-                    <a href="https://w.app/reloxa" alt="PedirAgora" className="btn" target="_blank">Pedir Agora</a>
+                    <a href="https://wa.me/5511995627944?text=Quero%20fazer%20um%20pedido" alt="PedirAgora" className="btn" target="_blank">Pedir Agora</a>
                 </li>
 
                 <li>
@@ -76,7 +76,7 @@ const Conteudo = () => {
                     <h2>Burguer Bacon</h2>
                     <p>Pão brioche, 180g de carne, bacon crocante, queijo, cebola caramelizada</p>
                     <strong>R$ 34,90</strong>
-                    <a href="https://w.app/reloxa" alt="PedirAgora" className="btn" target="_blank">Pedir Agora</a>
+                    <a href="https://wa.me/5511995627944?text=Quero%20fazer%20um%20pedido" alt="PedirAgora" className="btn" target="_blank">Pedir Agora</a>
                 </li>
 
                 <li>
@@ -85,7 +85,7 @@ const Conteudo = () => {
                     <h2>Burguer Duplo</h2>
                     <p>Pão brioche, 2x 180g de carne, bacon crocante, 2x queijo, cebola caramelizada molho barbeque</p>
                     <strong>R$ 49,90</strong>
-                    <a href="https://w.app/reloxa" alt="PedirAgora" className="btn" target="_blank">Pedir Agora</a>
+                    <a href="https://wa.me/5511995627944?text=Quero%20fazer%20um%20pedido" alt="PedirAgora" className="btn" target="_blank">Pedir Agora</a>
                 </li>
 
                 <li>
@@ -93,7 +93,7 @@ const Conteudo = () => {
                     <h2>Burguer Flower</h2>
                     <p>Pão brioche,180g de carne, alface, tomate, picles, gerginlim,2x queijo, cebola caramelizada molho vegetariano</p>
                     <strong>R$ 39,99</strong>
-                    <a href="https://w.app/reloxa" alt="PedirAgora" className="btn" target="_blank">Pedir Agora</a>
+                    <a href="https://wa.me/5511995627944?text=Quero%20fazer%20um%20pedido" alt="PedirAgora" className="btn" target="_blank">Pedir Agora</a>
                 </li>
 
                 <li>
@@ -102,7 +102,7 @@ const Conteudo = () => {
                     <p>Porção de batata com cheddar e bacon com apresentação, gostusura sem explicação</p>
                     <div className="flex flex-col mb-0">
                         <strong >R$ 25,99</strong>
-                        <a href="https://w.app/reloxa" alt="PedirAgora" className="btn err" target="_blank">Pedir Agora</a>
+                        <a href="https://wa.me/5511995627944?text=Quero%20fazer%20um%20pedido" alt="PedirAgora" className="btn err" target="_blank">Pedir Agora</a>
                     </div>
                 </li>
 
@@ -111,7 +111,7 @@ const Conteudo = () => {
                     <h2>Milk Shake Nevado</h2>
                     <p>Shake de Oreo, chocolate e nutella, com bolachas oreo</p>
                     <strong>R$ 18,99</strong>
-                    <a href="https://w.app/reloxa" alt="PedirAgora" className="btn err" target="_blank">Pedir Agora</a>
+                    <a href="https://wa.me/5511995627944?text=Quero%20fazer%20um%20pedido" alt="PedirAgora" className="btn err" target="_blank">Pedir Agora</a>
                 </li>
             </ul>
 
@@ -133,7 +133,7 @@ const Conteudo = () => {
         <section id="cta">
             <h2>Pronto para saborear o melhor hambúrguer da cidade ?</h2>
             <p>Faça o seu pedido agora e receba em casa !</p>
-            <a href="https://w.app/reloxa" rel="noopener noreferrer" target="_blank" className="btn btn-ligth">Pedir Agora</a>
+            <a href="https://wa.me/5511995627944?text=Quero%20fazer%20um%20pedido" rel="noopener noreferrer" target="_blank" className="btn btn-ligth">Pedir Agora</a>
         </section>
 
         <footer id="contato">
